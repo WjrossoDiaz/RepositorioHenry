@@ -7,6 +7,7 @@
 }
 
 .slider .btn {
+
   margin-top: 20px;
   padding: 0.50px;
   border-radius: 10px;
@@ -30,6 +31,7 @@
 .social-container {
   color: #ffff;
   font-size: 35px;
+  ;
   margin: 0px 20px;
 
 }
